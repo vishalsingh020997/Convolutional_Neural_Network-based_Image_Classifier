@@ -8,4 +8,4 @@ Accuracy = 99.07 %
 
 ## Model_2
 Input -> CONV (-> RELU -> Pool) -> CONV (-> RELU -> Pool) -> FC -> ReLU -> Dropout -> FC -> Softmax -> Loss
-Accuracy = 99.20 %
+Accuracy = 99.25 %
