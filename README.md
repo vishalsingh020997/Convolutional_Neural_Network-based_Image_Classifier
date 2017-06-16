@@ -3,7 +3,7 @@
 the model we're going to work out in this example is:
 
 ## Model_1
-Input -> CONV (-> ReLU -> Pool) -> FC -> ReLU -> FC -> Softmax -> Loss
+Input -> CONV (-> ReLU -> Pool) -> FC -> ReLU -> FC -> Softmax -> Loss 
 Accuracy = 99.07 %
 
 ## Model_2
